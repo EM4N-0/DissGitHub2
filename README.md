@@ -9,5 +9,26 @@ A NodeMCU and LED matrix were used to translate this data into a visual form, in
 While the system faced technical limitations (such as storage constraints and connectivity issues), the project highlights both the creative potential and ethical challenges** of using acoustic sensing in artistic installations. It raises important questions around privacy, abstraction, and the role of data-driven art in shaping our understanding of connected spaces.
 
 
+## Images
 
+
+![IMG_2187](Images/IMG_2187.jpeg)
+
+![IMG_2307](Images/IMG_2307.jpeg)
+
+![IMG_2308](Images/IMG_2308.jpeg)
+
+![IMG_2341](Images/IMG_2341.jpeg)
+
+![IMG_2342](Images/IMG_2342.jpeg)
+
+![IMG_2345](Images/IMG_2345.jpeg)
+
+![IMG_2346](Images/IMG_2346.jpeg)
+
+![IMG_2558](Images/IMG_2558.jpeg)
+
+![IMG_2560](Images/IMG_2560.jpeg)
+
+![IMG_2561](Images/IMG_2561.jpeg)
 
