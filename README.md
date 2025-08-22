@@ -32,3 +32,6 @@ While the system faced technical limitations (such as storage constraints and co
 
 ![IMG_2561](Images/IMG_2561.jpeg)
 
+## Example Of Waveforms 
+
+![IMG_2561](Images/waveform_comparison.png)
